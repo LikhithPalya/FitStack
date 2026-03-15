@@ -1,4 +1,4 @@
-# FitFlow - Fitness Tracking & Recommendation Platform
+# FitStack- Fitness Tracking & Recommendation Platform
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.1-brightgreen)
